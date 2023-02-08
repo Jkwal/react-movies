@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-movies-UDEMY/static/css/main.a3547c9d.css",
+    "main.js": "/react-movies-UDEMY/static/js/main.fd356793.js",
+    "index.html": "/react-movies-UDEMY/index.html",
+    "main.a3547c9d.css.map": "/react-movies-UDEMY/static/css/main.a3547c9d.css.map",
+    "main.fd356793.js.map": "/react-movies-UDEMY/static/js/main.fd356793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3547c9d.css",
+    "static/js/main.fd356793.js"
+  ]
+}
