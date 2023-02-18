@@ -1,2 +1,2 @@
-[GitHub Pages](https://jkwal.github.io/react-movies-UDEMY/)
+[GitHub Pages](https://jkwal.github.io/react-movies/)
 
